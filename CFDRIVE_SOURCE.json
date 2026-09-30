@@ -1,0 +1,7 @@
+{
+  "source": "https://github.com/sharkdp/diskus",
+  "commit": "90196e950017d25b2940e8e0fda51a321ca66e1a",
+  "license": "Apache-2.0",
+  "snapshot": "bounded source subset; workflows excluded",
+  "purpose": "Independent encrypted storage; not an upstream release or endorsement"
+}
